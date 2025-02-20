@@ -2,7 +2,7 @@
 
 I’m passionate about technology and learning new things every day. Here’s a bit more about me:
 
-- 🐍 **Python Developer**: I specialize in backend development.
+- 🐍 **Backend Developer**: I specialize in backend development.
 - 📷 **Traveler**: I love exploring new places and capturing moments through photography. Traveling broadens my horizons and inspires my work.
 - 🏍️ **Motorcycle Enthusiast**: Riding is my favorite way to unwind and explore the world. There’s nothing like the thrill of the open road.
 - 📺 **Korean Drama Fan**: A big fan of K-Dramas! I enjoy immersing myself in the stories and characters, which often spark new ideas for my projects.
