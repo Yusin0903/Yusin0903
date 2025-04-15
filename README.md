@@ -1,4 +1,4 @@
-# Hi 👋 I'm Yusin Huang!
+# Hi 👋 I'm Yusin!
 
 I’m passionate about technology and learning new things every day. Here’s a bit more about me:
 
