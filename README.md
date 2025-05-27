@@ -3,7 +3,7 @@
 I’m passionate about technology and learning new things every day. Here’s a bit more about me:
 
 - 🐍 **Backend Developer**: I specialize in backend development.
-- 📷 **Photopher**: I love exploring new places and capturing moments through photography. Traveling broadens my horizons and inspires my work.
+- 📷 **Photographer**: I love exploring new places and capturing moments through photography. Traveling broadens my horizons and inspires my work.
 - [my love photo](https://www.instagram.com/just__lives/) 
 ---
 
