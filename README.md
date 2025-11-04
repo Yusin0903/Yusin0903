@@ -4,7 +4,7 @@ I’m passionate about technology and learning new things every day. Here’s a 
 
 - 🐍 **Backend Developer**: I specialize in backend development.
 - 📷 **Photographer**: I love exploring new places and capturing moments through photography. Traveling broadens my horizons and inspires my work.
-- [my love photo](https://www.instagram.com/just__lives/) 
+- [my love photo](https://www.instagram.com/just.peter.days/) 
 ---
 
 ## 📝 Blog Posts
