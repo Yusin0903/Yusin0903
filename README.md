@@ -1,4 +1,4 @@
-# Hi 👋 I'm Yusin!
+# Hi 👋 I'm Yusin! You can also call me Peter!
 
 I’m passionate about technology and learning new things every day. Here’s a bit more about me:
 
